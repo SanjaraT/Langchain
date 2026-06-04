@@ -2,6 +2,8 @@ import os
 
 os.environ["OLLAMA_MODELS"] = r"D:\OllamaModels"
 
+# Prompt template is a structured way to create prompts dynamically by inserting variables into a predefined template.
+
 from langchain_core.prompts import PromptTemplate
 from langchain_community.llms import Ollama
 
