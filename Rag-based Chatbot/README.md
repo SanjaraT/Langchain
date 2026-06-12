@@ -9,13 +9,13 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions about YouT
 * Generate embeddings with open-source models
 * Store and retrieve documents using FAISS
 * Answer questions using RAG
-* Fully local and free (no OpenAI API required)
+* Fully local and free 
 
 ## Tech Stack
 
 * LangChain
 * FAISS
-* Hugging Face Embeddings (BGE / MiniLM)
+* Hugging Face Embeddings ( MiniLM)
 * Ollama (Phi-3)
 * YouTube Transcript API
 
